@@ -1,1 +1,2 @@
 # colorflipper
+- A beginner project 
